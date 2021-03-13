@@ -1,0 +1,18 @@
+{
+    "format_version": 1,
+    "header": {
+        "description": "Skyblock for server Function",
+        "name": "Skyblock for server Function",
+        "uuid": "464d0987-f711-4d82-8cb1-6a672479003a",
+        "version": [4, 6, 0],
+        "min_engine_version": [1, 0, 0]
+    },
+    "modules": [
+        {
+            "description": "Skyblock for server Function",
+            "type": "data",
+            "uuid": "fa42f559-fa6c-44f8-b505-b08fe0ab3883",
+            "version": [1, 0, 0]
+        }
+    ]
+}
